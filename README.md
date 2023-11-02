@@ -26,4 +26,4 @@ curl -sO https://raw.githubusercontent.com/StarThien26/3proxy/main/ipv6-with-por
 Lấy thông tin tài khoản tại đường dẫn /home/cloudfly. Mở file proxy.txt để lấy các thông tin đăng nhập.
 
 Để cài đặt Proxy không cần username và password thì thay lệnh ở bước 2 thành lệnh dưới
-curl -sO https://raw.githubusercontent.com/StarThien26/3proxy/main/ipv6-with-port-same-username-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
+curl -sO https://raw.githubusercontent.com/StarThien26/3proxy/main/ipv6-with-port-none-password.sh && chmod +x ipv6-with-port-none-password.sh && bash ipv6-with-port-none-password.sh
